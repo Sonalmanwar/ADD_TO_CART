@@ -4,6 +4,8 @@ This project is a simple Angular application for adding books to a cart. It allo
 
 
 <img src="https://andhopedesigns.com/cdn/shop/files/and-hope-designs-birthday-card-for-book-lovers-37853739188377.jpg?v=1708187176&width=1445" width="400" height="250">
+
+
 ## Features
 
 - Display a list of books with their details such as title, author, and price.
