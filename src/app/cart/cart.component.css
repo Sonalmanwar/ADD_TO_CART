@@ -1,0 +1,37 @@
+.cart-container {
+    border: 2px solid #007bff; 
+    border-radius: 10px; 
+    padding: 15px; 
+  }
+ 
+  
+.cart-item {
+    background-color: rgba(255, 255, 255, 0.7); 
+    border: none; 
+    margin-bottom: 5px; 
+  }
+
+  .medium-image {
+    margin-top: 10px;
+    max-width: 100px; 
+    height: auto;
+  }
+
+  .cart-container {
+    background-image: url('https://assets.architecturaldigest.in/photos/624c2654cf7483eb90e638d6/4:3/w_1440,h_1080,c_limit/Books-1.jpg'); /* Replace 'path/to/your/image.jpg' with your image URL or file path */
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    padding: 20px; 
+    border-radius: 10px; 
+  }
+  .cart-heading {
+    background-color: #e9e3e3; 
+    padding: 10px; 
+    border-radius: 5px;
+  }
+  
+ 
+  
+  
+  
+  
